@@ -1,8 +1,6 @@
 ### <div align="center">I'm Arturo Alcala, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -18,10 +16,8 @@
 <br/>  
 
 
-## My Skill Set  
-
-
-### Frontend  
+## Favorite stack  
+ 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
@@ -124,7 +120,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=alcala28043&&style=flat-square" align="center" />
 </div>  
 
 <br />
