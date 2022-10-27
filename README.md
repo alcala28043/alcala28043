@@ -1,7 +1,5 @@
 ### <div align="center">I'm Arturo Alcala, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
 
-<br/>  
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -122,8 +120,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=alcala28043&&style=flat-square" align="center" />
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
