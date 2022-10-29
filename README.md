@@ -1,4 +1,4 @@
-### <div align="center">👋 I'm Arturo Alcala, a full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">👋 I'm Arturo Alcala, a full-stack developer 👨‍💻 developing since 1997 👴 working remotely since 2020 🚀</div>  
 <br/>
 <div align="center">
     <table width="100%">
