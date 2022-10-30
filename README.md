@@ -10,7 +10,12 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcala28043&hide_border=true&layout=compact" align="left" />
             </td>
         </tr>
-    </table>
+		<tr>
+			<td colspan="2">
+				<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcala28043" alt="alcala28043" /></a></p>	
+			</td>
+		</tr>
+    </table>	
 </div>
 <br/>
 <div align="center">
