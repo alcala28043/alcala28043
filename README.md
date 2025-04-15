@@ -1,24 +1,6 @@
 ### <div align="center">👋 I'm Arturo Alcala, a full-stack developer 👨‍💻 developing since 1997 👴 working remotely since 2020 🚀</div>  
 <br/>
 <div align="center">
-    <table width="100%">
-        <tr>
-            <td valign="top" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api?username=alcala28043&show_icons=true&count_private=true&hide_border=true" align="center" />
-            </td>
-            <td valign="top" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcala28043&hide_border=true&layout=compact" align="left" />
-            </td>
-        </tr>
-		<tr>
-			<td colspan="2">
-				<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcala28043" alt="alcala28043" /></a></p>	
-			</td>
-		</tr>
-    </table>	
-</div>
-<br/>
-<div align="center">
     <h2>Favorite stack</h2>
 </div> 
 <div align="center">   
